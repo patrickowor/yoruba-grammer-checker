@@ -1,0 +1,4 @@
+model/**
+.vite
+**/__pycache__
+**/node_modules
